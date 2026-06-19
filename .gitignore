@@ -1,0 +1,22 @@
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Python Scraper
+scraper/venv/
+scraper/__pycache__/
+*.pyc
+
+# Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+web/.vercel/
+web/*.tsbuildinfo
+web/next-env.d.ts
+
+# OS Files
+.DS_Store
+Thumbs.db
