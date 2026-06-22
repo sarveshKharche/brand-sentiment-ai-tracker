@@ -13,7 +13,7 @@ export default function Home() {
             <div className="bg-blue-500/10 p-2 rounded-lg border border-blue-500/20">
               <Activity className="w-6 h-6 text-blue-400" />
             </div>
-            <h1 className="text-3xl font-bold tracking-tight text-white">Profound Proof of Concept</h1>
+            <h1 className="text-3xl font-bold tracking-tight text-white">AI Share of Voice Tracker</h1>
           </div>
           <p className="text-zinc-400 max-w-2xl text-lg">
             Decoding AI search visibility. This dashboard tracks how LLMs rank sports apparel brands for specific buyer-intent queries (e.g. "2026 Knicks Championship gear").
